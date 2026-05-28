@@ -1,151 +1,158 @@
 {
   "business": {
-    "name": "Atelier Garment Exporters",
-    "phone": "+91 44 2815 9000",
-    "email": "inquiries@ateliergarments.com",
-    "address": "Atelier Towers, Sector 4, KASEZ, Chennai, Tamil Nadu 600096, India",
-    "yearEstablished": "1994",
-    "capacity": "2.4 Million Garments Annually"
+    "name": "Manita Texfab",
+    "full_address": "247, New Cloth Market, Sarangpur, Sherkotda, Ahmedabad, Gujarat 380002, India",
+    "phone": "+91 79 2213 5300",
+    "local_phone": "079 2213 5300",
+    "rating": 5,
+    "total_reviews": 6,
+    "business_status": "OPERATIONAL",
+    "google_maps_url": "https://maps.google.com/?cid=10509312638945166620",
+    "lat": 23.0182836,
+    "lng": 72.5999403,
+    "open_now": true,
+    "weekday_hours": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "types": [
+      "establishment",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reviews": [
+      {
+        "author_name": "Unibest",
+        "rating": 5,
+        "review": "Finest , fabrics suppliers . Quality fabrics for fashion garments , shirting and suiting. Must visit , fashion manufacturer..",
+        "time_ago": "6 years ago"
+      },
+      {
+        "author_name": "pravin sakaria",
+        "rating": 5,
+        "review": "good collection of suitung fabrics",
+        "time_ago": "6 years ago"
+      },
+      {
+        "author_name": "Mahendra Chopra",
+        "rating": 5,
+        "review": "Best suiting collection",
+        "time_ago": "2 years ago"
+      }
+    ],
+    "photos": [
+      {
+        "width": 905,
+        "height": 510,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sGBEu2iE4PxKwi3ZBmH4-tWtdAYI6QWmq5gVHAJ6u5u5rufytX7WBEBBGEgRbEoneYCyZf55ZeuOml8qCRckrwueiqUjI-TC09PGZtqvYULLOAmXAaBWwVAKz79mkv1jy0S8NUHbyUrIGEMr-pBC-5TmO_Trbr4SBuIYRC2-qb5RvmCBzwQijyOf_OJUBO97rYpdyT8cJ5CksuAMOTyEG5OaZAz-7rJzfzuE5qG7woicTS_MzWzlEBJtrRFSoMxwxnb9XxlBdIkUxgeISe0SXNGyGzub1mXzBNwVy4vWWg7AN4Rf9Pz1uj-FYVmwaKbggVAQnIowejjgXJnJzm0Hk9_8i9pkwSjNz3Mrt0Opn9LOFFIEk2CpBla2pEeEEh8_n3--7l-zpMO5LVOJTpzSIgIhIbEuknQ-rOz8YjWQhbjA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 2096,
+        "height": 3724,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uHMw5v-b_xS8YGEmfWAgT8MDqLTTDm3U3HKkcB4kMae3dGMokXbwYSZipCRnmgyBzkiNtti7H1rIMTovMldY2fw0n9IVctipNLvQpRteFucPqPDpLIBDEKlobYM6dKlvMp2uZh1B_FqBn4G8rzmqWvxIFItBUOe0WwldoFBeOMS8EVUcT2_SlgTK2ld9POk4NZBZx2WU-zCMLgl_camz-WaJBsBj0dkHtZiNtdWsMKlno4Wa60vVl3Tt-B7zOyEWhXGTMoWEdksLRzgN1_57qGXJOTHuMO-uLNq-I1WmINim_XkaecBKYv1hfnenyNEb2SCqLDE1egy-6xNksUq2CfWawo0iHa-xQgL1aFc3I4-p5Lgm42WTCMOBeJ0Prtrx0S6IuQIVM73Zu3HCoPbpsqmBcK4V44EWpbJFzH57CoiyLw&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 2096,
+        "height": 3724,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-v9R4UeoroXzb-OaQP-ElET2R_mzaFDZ57OPfgNpiVUObcpuNMr2x00LFBjpg335t6yz5oJGjkFU8GvL8lC-VXp6hzenuhlv4esQ-z7C72j0m4C5k_ti62T9QJFMO4I4ApofwYsTNHjNk3Z31MKmfB_1wjs0J0gQhR1oECB3tXIiobAY1xN4TIyFrngf3IBRKqgvCsWBgh0pj8Si2KKPKy0sjIhm1FapJrQ6rk69zoWUNJlZPiU1MPyGdw5fRIcGry3HoYzMaXFfMx1cfeR1cJY0kAXVPefuKrVyGtmpBuZT8Q8Ff_NTus6YIXODP0ROVN61_a6gM4f3V686Q739CdNNE9t61i7h5xotiZpcOj9hvDMQccOWy72d5g7T606kWkL7-ZaCi4iN0fwN98EEryq_5W7yBhktxjXZYBcrhVoKRw&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 2096,
+        "height": 3724,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vxgP0-p5AkI7MoLMu6Fr9C-dFpxnfn44jF3rjXUy5YRInfLaMEjfXgK2i6wdT6jVkKXRvC7Ol_MUTZq156S0jHa2vHJh7jWw-eUKUC3EwHbAQ0sHgBuhcvPrluikxlWBZwp7hIX6XsWrFOxjgiy03_L8otnuMd7WszGueHqAsOS_bqUo1RygyRPW_1iQDO3HfQPu3egP1nyOZk1xzKjg9IHWRZmK6M-mKzxIeLkuTGvTO6--CAP0sKALB8zMJ6qB1QwUy8dKJ39iHe3x3CIAXdIXpJjS91XFv0Qj8dcGlxSmNKEbqWWLvOkL8u0BccqhXXShxhLvfIGxEaxSBUHnT-DB3LHQscmsGxpiVVbDMQDkEtRH7bgOO3hyPLGo1ZuHMPVHK4YmSah56aUB1ByQM1HUPHSCY8_u7XGqn61T0vBHk&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 2096,
+        "height": 3724,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vjXQXljMJkEwE1uPC2Bgt-HEpVAdLSbJErzdUCHHTKtu0JeYhHxan5LOAPTjPJMjunA3ar8EZexwJ8Pj2kNLQ9FJBaFDs6G6Slk6ozAwlOmxROgjjkHW_ID4Y5t0WfQHiXTZID8a2o7-XtO502ZLE5_xf9TOawhNNfkUfQdJCcYqCXN1-y6F3rOvWOxMBXD9BveiYqMbGUoLzGH8AUK5db2YU25GQgts4XBMMs1YPB5go7DEATu_etUeJERlXuAhH1v4e00SYIRghLji__OgYxiQmO8ueq0HZ4ZRot6kZlGM29ht7dUhHAiRMfWCKL92VSTytQh_ytaSZHLbDao3S1VoI7_ei1cpCraEnqDJij22J-LQiEdquIlJ4tVjDs2AtxMa4dPymz3ZNcdWJ0zzaHu5BfgJDw5Fjf9BQer6IiMhM&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 4800,
+        "height": 3193,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sh_J_LM68FltoXbeuLLvgf1qUiuN8mj37WchAVR2wBYlIhnpsc8n9saQhki0p1zttM3mWz_IFknV7z2E7aq8RUtXYAQC2yfUjkJ-03SIx7IyZfRKkfZ7MgOlyBpmJME8jj02ErFBl3GfYI_jc1x7np9L4gT14Ulk6SiGMowoe4ecRb3gZ3a8uC5rFh08MQKgiRDQca80dZSr3Qt4MG0CkciZTSYWXf6p1O2Kd691MqLqTjOYiNoV4Digd3cN9k3MlWHMQMvZU_hsYp0n_aM_jKGa0wf3UcWaWBOs0FDe--fJ1PMK3NpSQVlB6fy14_NJ___tDF-N5YQLq2gImKYcC3AQHhj142ubfKlsqy388hYL_WAXY5AkKkK1PxPqSwBmdiGWMb1m6_AOGEzd0Z3SBEOfh-aL1ucQfpX-ErMMq6BkU&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      }
+    ],
+    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sGBEu2iE4PxKwi3ZBmH4-tWtdAYI6QWmq5gVHAJ6u5u5rufytX7WBEBBGEgRbEoneYCyZf55ZeuOml8qCRckrwueiqUjI-TC09PGZtqvYULLOAmXAaBWwVAKz79mkv1jy0S8NUHbyUrIGEMr-pBC-5TmO_Trbr4SBuIYRC2-qb5RvmCBzwQijyOf_OJUBO97rYpdyT8cJ5CksuAMOTyEG5OaZAz-7rJzfzuE5qG7woicTS_MzWzlEBJtrRFSoMxwxnb9XxlBdIkUxgeISe0SXNGyGzub1mXzBNwVy4vWWg7AN4Rf9Pz1uj-FYVmwaKbggVAQnIowejjgXJnJzm0Hk9_8i9pkwSjNz3Mrt0Opn9LOFFIEk2CpBla2pEeEEh8_n3--7l-zpMO5LVOJTpzSIgIhIbEuknQ-rOz8YjWQhbjA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
   },
   "website_config": {
-    "theme": "dark-editorial",
-    "navbarVariant": "glassmorphism",
+    "theme": "luxury-fashion",
+    "navbarVariant": "transparent-floating",
     "footerVariant": "editorial-footer",
     "branding": {
-      "style": "Avant-Garde Studio",
-      "tone": "mysterious-luxurious"
+      "style": "Elegant",
+      "tone": "Refined"
     },
     "layout": {
       "sections": [
-        { "type": "Hero", "variant": "fullscreen-fashion" },
-        { "type": "About", "variant": "editorial-story" },
-        { "type": "Stats", "variant": "split-metrics" },
-        { "type": "Process", "variant": "image-process" },
-        { "type": "Reviews", "variant": "stacked-cards" },
-        { "type": "Contact", "variant": "dark-contact" }
+        {
+          "type": "Hero",
+          "variant": "luxury-parallax"
+        },
+        {
+          "type": "About",
+          "variant": "luxury-narrative"
+        },
+        {
+          "type": "Fabrics",
+          "variant": "fabric-cards"
+        },
+        {
+          "type": "Gallery",
+          "variant": "editorial-grid"
+        },
+        {
+          "type": "Reviews",
+          "variant": "editorial-quotes"
+        },
+        {
+          "type": "CTA",
+          "variant": "dark-luxury"
+        },
+        {
+          "type": "Contact",
+          "variant": "dark-contact"
+        }
       ]
     }
   },
   "website_content": {
     "hero": {
-      "tagline": "Architecting High-End Apparel for the World's Leading Fashion Houses",
-      "description": "Atelier Garment Exporters is a premier, luxury apparel and high-performance streetwear manufacturer. Running out of an advanced carbon-neutral facility in Chennai, India, we specialize in high-concept fashion export, working with elite global brands to bring conscious, couture-grade garment production to life at scale."
+      "title": "The Art of Textile. Elevated.",
+      "subtitle": "Discover Manita Texfab's curated collection of premium fabrics for the discerning designer.",
+      "primaryButton": "Explore Fabrics",
+      "secondaryButton": "Discover Our Craft"
     },
     "about": {
-      "title": "Crafting conscious garment solutions for the contemporary epoch.",
-      "description": "Atelier Garment Exporters works with elite global brands to bring conscious, couture-grade garment production to life at scale. Operating out of an advanced carbon-neutral facility in Chennai, India, we specialize in high-concept fashion export, zero liquid discharge dyeing, and 3D precision draping."
+      "title": "Legacy of Refined Textiles",
+      "description": "Manita Texfab stands at the forefront of premium textile sourcing, offering an exquisite selection for luxury garments. We are dedicated to quality, elegance, and the foundation of exceptional design."
     },
-    "stats": [
-      { "value": "30+", "label": "Global Brands Supported" },
-      { "value": "2.4M", "label": "Annual Garments Shipped" },
-      { "value": "98%", "label": "Water Recycled in Dyeing" },
-      { "value": "100%", "label": "Ethical Labor Compliance" }
-    ],
-    "fabrics": [
-      {
-        "name": "Ultra-Heavyweight Loopback Terry",
-        "weight": "480 GSM",
-        "composition": "100% Organic Long-Staple Cotton",
-        "description": "Designed for premier luxury streetwear. Highly robust structure, immense softness, and a clean structured drape.",
-        "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=1600&auto=format&fit=crop"
-      },
-      {
-        "name": "Tailored Silk-Wool Blends",
-        "weight": "240 GSM",
-        "composition": "70% Virgin Wool / 30% Mulberry Silk",
-        "description": "Engineered for high-end luxury draping and soft structure. Breathable warmth with a natural subtle sheen.",
-        "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=1600&auto=format&fit=crop"
-      },
-      {
-        "name": "Technical Recycled Ripstop Nylon",
-        "weight": "110 GSM",
-        "composition": "100% GRS Recycled Post-Consumer Nylon",
-        "description": "Ultra-lightweight micro-ripstop with sustainable water-repellent coating. Engineered for performance outerwear.",
-        "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=1600&auto=format&fit=crop"
-      }
-    ],
-    "process": [
-      {
-        "step": "01",
-        "title": "Ethical Sourcing & Fiber Selection",
-        "description": "We secure superior long-staple organic cottons, sustainable wood-derived Tencel, and certified recycled technical fibers."
-      },
-      {
-        "step": "02",
-        "title": "Architectural Drafting & Pattern Modeling",
-        "description": "Collaborating closely with brand design teams, our engineers utilize advanced 3D pattern scanning for ultra-precise draping."
-      },
-      {
-        "step": "03",
-        "title": "Conscious Wet Processing",
-        "description": "Using high-efficiency low-liquor ratio dyeing machinery that recycles 98% of process water through zero liquid discharge systems."
-      },
-      {
-        "step": "04",
-        "title": "Craftsmanship-First Assembly",
-        "description": "Each line of stitching is managed by specialized artisans with decades of experience in working with high-end tailored garments."
-      }
-    ],
-    "gallery": [
-      {
-        "url": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=1600&auto=format&fit=crop",
-        "title": "Precision tailoring assembly line",
-        "category": "Facility"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=1600&auto=format&fit=crop",
-        "title": "Premium fashion collection inspection",
-        "category": "Showcase"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=1600&auto=format&fit=crop",
-        "title": "Conscious textile washing",
-        "category": "Processing"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?q=80&w=1600&auto=format&fit=crop",
-        "title": "Artisanal quality stitching control",
-        "category": "Craftsmanship"
-      }
-    ],
-    "reviews": [
-      {
-        "quote": "Atelier Exporters changed how we look at technical outerwear production. Their precision pattern engineering matched our strict luxury blueprints perfectly, and their ethical traceability metrics are unparalleled in the global supply chain.",
-        "author": "Marcus Sterling",
-        "role": "Director of Sourcing, Sterling Outerwear (London)"
-      },
-      {
-        "quote": "In high-concept modern streetwear, fabric handfeel and weight are everything. Atelier's custom loopback terry is the finest on the market, period. Their execution of zero-liquid discharge dyeing is a blueprint for the future of apparel.",
-        "author": "Elena Rossi",
-        "role": "Head of Production, NVRMIND Collective (Milan)"
-      }
-    ],
-    "faq": [
-      {
-        "question": "What are your Minimum Order Quantities (MOQs)?",
-        "answer": "To maintain our rigorous craftsmanship controls, our standard MOQs are 1,000 units per style / 500 units per colorway. Custom fabric developments may require higher initial volumes depending on fiber sourcing requirements."
-      },
-      {
-        "question": "How do you trace your raw organic fibers?",
-        "answer": "Every shipment of raw material is fully documented with direct transaction certificates under Global Organic Textile Standard (GOTS) and OCS certification. We provide complete transparent supply-chain documentation directly to brand partners."
-      },
-      {
-        "question": "What are your standard shipping lead times?",
-        "answer": "Our normal production timeline spans 8 to 12 weeks from tech-pack signoff and fabric approval. We utilize highly direct ocean cargo corridors via Chennai Port and fast air-freight pathways to major EU/US logistics hubs."
-      }
-    ],
+    "fabrics": {
+      "title": "Exquisite Fabrics. Unrivalled Quality.",
+      "description": "Explore our meticulously curated range of high-performance and luxury textiles, perfect for crafting sophisticated fashion and bespoke collections."
+    },
+    "gallery": {
+      "title": "A Glimpse into Our Collections",
+      "description": "Experience the texture and visual depth of our premium fabrics, inspiring endless possibilities for your next design."
+    },
+    "reviews": {
+      "title": "Trusted by Industry Innovators",
+      "description": "Hear from our partners who choose Manita Texfab for unparalleled quality and service in luxury textiles."
+    },
     "cta": {
-      "title": "Secure Your Brand's Next Autumn/Winter Production Run",
-      "subtitle": "Production Allocation",
-      "description": "We are now accepting custom fabric developments and production contracts for the upcoming collection cycle."
+      "title": "Transform Your Vision",
+      "description": "Connect with us to explore bespoke fabric solutions that define luxury and elevate your creations.",
+      "buttonText": "Request a Consultation"
+    },
+    "contact": {
+      "title": "Partner With Us",
+      "description": "For inquiries, collaborations, or to learn more about our premium textile offerings, reach out today.",
+      "buttonText": "Get in Touch"
     }
-  },
-  "seo": {
-    "title": "Atelier Garment Exporters | High-End Sustainable Apparel Manufacture",
-    "description": "Global, luxury garment and premium streetwear exporters. Operating dynamic carbon-neutral mills specializing in high-concept fashion, ethical organic fibers, and zero liquid discharge production."
-  },
-  "socials": {
-    "instagram": "https://instagram.com/ateliergarments",
-    "linkedin": "https://linkedin.com/company/atelier-garment-exporters"
   }
 }
