@@ -50,35 +50,35 @@
       {
         "width": 905,
         "height": 510,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sGBEu2iE4PxKwi3ZBmH4-tWtdAYI6QWmq5gVHAJ6u5u5rufytX7WBEBBGEgRbEoneYCyZf55ZeuOml8qCRckrwueiqUjI-TC09PGZtqvYULLOAmXAaBWwVAKz79mkv1jy0S8NUHbyUrIGEMr-pBC-5TmO_Trbr4SBuIYRC2-qb5RvmCBzwQijyOf_OJUBO97rYpdyT8cJ5CksuAMOTyEG5OaZAz-7rJzfzuE5qG7woicTS_MzWzlEBJtrRFSoMxwxnb9XxlBdIkUxgeISe0SXNGyGzub1mXzBNwVy4vWWg7AN4Rf9Pz1uj-FYVmwaKbggVAQnIowejjgXJnJzm0Hk9_8i9pkwSjNz3Mrt0Opn9LOFFIEk2CpBla2pEeEEh8_n3--7l-zpMO5LVOJTpzSIgIhIbEuknQ-rOz8YjWQhbjA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/manita1.png"
       },
       {
         "width": 2096,
         "height": 3724,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uHMw5v-b_xS8YGEmfWAgT8MDqLTTDm3U3HKkcB4kMae3dGMokXbwYSZipCRnmgyBzkiNtti7H1rIMTovMldY2fw0n9IVctipNLvQpRteFucPqPDpLIBDEKlobYM6dKlvMp2uZh1B_FqBn4G8rzmqWvxIFItBUOe0WwldoFBeOMS8EVUcT2_SlgTK2ld9POk4NZBZx2WU-zCMLgl_camz-WaJBsBj0dkHtZiNtdWsMKlno4Wa60vVl3Tt-B7zOyEWhXGTMoWEdksLRzgN1_57qGXJOTHuMO-uLNq-I1WmINim_XkaecBKYv1hfnenyNEb2SCqLDE1egy-6xNksUq2CfWawo0iHa-xQgL1aFc3I4-p5Lgm42WTCMOBeJ0Prtrx0S6IuQIVM73Zu3HCoPbpsqmBcK4V44EWpbJFzH57CoiyLw&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/manita2.jpg"
       },
       {
         "width": 2096,
         "height": 3724,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-v9R4UeoroXzb-OaQP-ElET2R_mzaFDZ57OPfgNpiVUObcpuNMr2x00LFBjpg335t6yz5oJGjkFU8GvL8lC-VXp6hzenuhlv4esQ-z7C72j0m4C5k_ti62T9QJFMO4I4ApofwYsTNHjNk3Z31MKmfB_1wjs0J0gQhR1oECB3tXIiobAY1xN4TIyFrngf3IBRKqgvCsWBgh0pj8Si2KKPKy0sjIhm1FapJrQ6rk69zoWUNJlZPiU1MPyGdw5fRIcGry3HoYzMaXFfMx1cfeR1cJY0kAXVPefuKrVyGtmpBuZT8Q8Ff_NTus6YIXODP0ROVN61_a6gM4f3V686Q739CdNNE9t61i7h5xotiZpcOj9hvDMQccOWy72d5g7T606kWkL7-ZaCi4iN0fwN98EEryq_5W7yBhktxjXZYBcrhVoKRw&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/manita3.jpg"
       },
       {
         "width": 2096,
         "height": 3724,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vxgP0-p5AkI7MoLMu6Fr9C-dFpxnfn44jF3rjXUy5YRInfLaMEjfXgK2i6wdT6jVkKXRvC7Ol_MUTZq156S0jHa2vHJh7jWw-eUKUC3EwHbAQ0sHgBuhcvPrluikxlWBZwp7hIX6XsWrFOxjgiy03_L8otnuMd7WszGueHqAsOS_bqUo1RygyRPW_1iQDO3HfQPu3egP1nyOZk1xzKjg9IHWRZmK6M-mKzxIeLkuTGvTO6--CAP0sKALB8zMJ6qB1QwUy8dKJ39iHe3x3CIAXdIXpJjS91XFv0Qj8dcGlxSmNKEbqWWLvOkL8u0BccqhXXShxhLvfIGxEaxSBUHnT-DB3LHQscmsGxpiVVbDMQDkEtRH7bgOO3hyPLGo1ZuHMPVHK4YmSah56aUB1ByQM1HUPHSCY8_u7XGqn61T0vBHk&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/manita4.jpg"
       },
       {
         "width": 2096,
         "height": 3724,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vjXQXljMJkEwE1uPC2Bgt-HEpVAdLSbJErzdUCHHTKtu0JeYhHxan5LOAPTjPJMjunA3ar8EZexwJ8Pj2kNLQ9FJBaFDs6G6Slk6ozAwlOmxROgjjkHW_ID4Y5t0WfQHiXTZID8a2o7-XtO502ZLE5_xf9TOawhNNfkUfQdJCcYqCXN1-y6F3rOvWOxMBXD9BveiYqMbGUoLzGH8AUK5db2YU25GQgts4XBMMs1YPB5go7DEATu_etUeJERlXuAhH1v4e00SYIRghLji__OgYxiQmO8ueq0HZ4ZRot6kZlGM29ht7dUhHAiRMfWCKL92VSTytQh_ytaSZHLbDao3S1VoI7_ei1cpCraEnqDJij22J-LQiEdquIlJ4tVjDs2AtxMa4dPymz3ZNcdWJ0zzaHu5BfgJDw5Fjf9BQer6IiMhM&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/manita5.jpg"
       },
       {
         "width": 4800,
         "height": 3193,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sh_J_LM68FltoXbeuLLvgf1qUiuN8mj37WchAVR2wBYlIhnpsc8n9saQhki0p1zttM3mWz_IFknV7z2E7aq8RUtXYAQC2yfUjkJ-03SIx7IyZfRKkfZ7MgOlyBpmJME8jj02ErFBl3GfYI_jc1x7np9L4gT14Ulk6SiGMowoe4ecRb3gZ3a8uC5rFh08MQKgiRDQca80dZSr3Qt4MG0CkciZTSYWXf6p1O2Kd691MqLqTjOYiNoV4Digd3cN9k3MlWHMQMvZU_hsYp0n_aM_jKGa0wf3UcWaWBOs0FDe--fJ1PMK3NpSQVlB6fy14_NJ___tDF-N5YQLq2gImKYcC3AQHhj142ubfKlsqy388hYL_WAXY5AkKkK1PxPqSwBmdiGWMb1m6_AOGEzd0Z3SBEOfh-aL1ucQfpX-ErMMq6BkU&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/manita6.jpg"
       }
     ],
-    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sGBEu2iE4PxKwi3ZBmH4-tWtdAYI6QWmq5gVHAJ6u5u5rufytX7WBEBBGEgRbEoneYCyZf55ZeuOml8qCRckrwueiqUjI-TC09PGZtqvYULLOAmXAaBWwVAKz79mkv1jy0S8NUHbyUrIGEMr-pBC-5TmO_Trbr4SBuIYRC2-qb5RvmCBzwQijyOf_OJUBO97rYpdyT8cJ5CksuAMOTyEG5OaZAz-7rJzfzuE5qG7woicTS_MzWzlEBJtrRFSoMxwxnb9XxlBdIkUxgeISe0SXNGyGzub1mXzBNwVy4vWWg7AN4Rf9Pz1uj-FYVmwaKbggVAQnIowejjgXJnJzm0Hk9_8i9pkwSjNz3Mrt0Opn9LOFFIEk2CpBla2pEeEEh8_n3--7l-zpMO5LVOJTpzSIgIhIbEuknQ-rOz8YjWQhbjA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+    "main_photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/manita1.png"
   },
   "website_config": {
     "theme": "luxury-fashion",
